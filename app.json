@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Movie Fanatics",
-    "slug": "movie fanatics",
+    "slug": "movie-fanatics",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -26,11 +26,6 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "extra": {
-      "eas": {
-        "projectId": "d830a49b-4e0f-44ed-b446-c5254fae0583"
-      }
     }
   }
 }
